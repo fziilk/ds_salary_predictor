@@ -9,8 +9,3 @@ task: regression
 m: 546
 training_date (dd/mm/yy): 12/09/2022
 ```
-
-## Instalation
-
-To use both models, please install the git repository by running the following script in the terminal. Be sure to have git installed in the system.
-
